@@ -1,0 +1,15 @@
+.form{
+    width: 50%;
+    margin: auto;
+    margin-top: 5rem;
+    border: 1px black solid;
+}
+.form form input , label {
+    width: 75%;
+    margin-left:1rem ;
+}
+.form form button{
+    width: 25%;
+    margin-left: 10rem;
+    margin-bottom: 2rem;
+}
